@@ -2,6 +2,8 @@
 
 A simple web application built with **Next.js**, **Laravel**, and **MySQL** that allows user authentication and enables users to view, search, and manage posts. This application features a **dashboard** that lists all posts, displays detailed content, and allows for filtering posts by their title. Authenticated users can navigate to an edit page to modify posts.
 
+![Login Form](https://i.imgur.com/2D1tLsn.png)
+
 ## Technologies Used
 
 ### Frontend
@@ -23,6 +25,10 @@ A simple web application built with **Next.js**, **Laravel**, and **MySQL** that
 - **Search Functionality**: Allows users to filter posts by title as they type in the search bar.
 - **Post Details**: Clicking on a post redirects the user to the post's detailed page.
 - **Edit Posts**: Only authenticated users can edit their own posts.
+
+![Post Listing](https://github.com/user-attachments/assets/273185ec-3d9a-4cf3-9e3d-f36b0a271781)
+![Add New Posts](https://github.com/user-attachments/assets/5d267a11-c4bd-41ca-b8e2-86443b3313b0)
+
 
 ## Requirements
 
